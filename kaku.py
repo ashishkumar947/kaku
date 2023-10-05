@@ -172,11 +172,11 @@ def bd():
 
 def india():
     logo()
-    print(f" {xxx('•')} Example : {g}+91091 +91092 +91093 +91094 +91095 +91096 ")
+    print(f" {xxx('•')} Example : {g}+91091 +91092 +91093 +91094 ")
     linex()
     code = input(f" {xxx('?')} Enter Code : ")
     logo()
-    print(f" {xxx('•')} Exampel : {g}500 5000 600 6000 8000 10000 ")
+    print(f" {xxx('•')} Exampel : {g}5000, 7000, 9000, 10000, ")
     linex()
     limit = int(input(f" {xxx('?')} Enter Limit : "))
     for _ in range(limit):
