@@ -176,7 +176,7 @@ def india():
     linex()
     code = input(f" {xxx('?')} Enter Code : ")
     logo()
-    print(f" {xxx('•')} Exampel : {g}500 500 600 6000 8000 10000 ")
+    print(f" {xxx('•')} Exampel : {g}500 5000 600 6000 8000 10000 ")
     linex()
     limit = int(input(f" {xxx('?')} Enter Limit : "))
     for _ in range(limit):
